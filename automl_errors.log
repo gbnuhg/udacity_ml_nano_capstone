@@ -1,0 +1,15 @@
+2024-06-09 15:17:26.112 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 15:17:26.114 - INFO - 7850 - azureml.train.automl.automlconfig._start_execution:231 - Submitting remote.
+2024-06-09 15:18:37.370 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 15:18:37.379 - INFO - 7850 - azureml.train.automl.automlconfig._start_execution:231 - Submitting remote.
+2024-06-09 15:21:56.160 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 15:24:15.718 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 15:25:24.197 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 16:36:03.748 - INFO - 7850 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 24.0.8-1, build e0dfb46e22c4fc8a3ebfc990b44273be619686e9
+.
+2024-06-09 16:36:03.776 - INFO - 7850 - azureml.train.automl.automlconfig._start_execution:231 - Submitting remote.

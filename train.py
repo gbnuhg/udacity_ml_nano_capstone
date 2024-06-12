@@ -61,7 +61,7 @@ def main():
     # Data is located at:
     # "https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv"
 
-    csv_url = 'https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data'
+    csv_url = 'https://raw.githubusercontent.com/gbnuhg/udacity_ml_nano_capstone/main/heart_failure_clinical_records_dataset.csv'
     ds = TabularDatasetFactory.from_delimited_files(csv_url)
     
     #ds = Dataset.get_by_name(workspace, name='heart-data')

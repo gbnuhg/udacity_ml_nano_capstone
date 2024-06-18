@@ -52,6 +52,7 @@ The best iteration with this HyperDrive run was a prediction of 88.33% accuracy 
 Since the AutoML run was superior, we deployed it instead of the HyperDrive run. We downloaded a template score file and named it score_new.py since the score.py file I created was running into issues. With that and the environment from the best run, we created an inference configuration. The deployment config was created with the ACI Webservice where we enabled authentication. We then deployed the model and named it "service". We pulled the scoring URL and key from the deployment and added it to the endpoint.py file.
 
 Once deployed, we created an endpoint.py script with test data to use against the endpoint. When calling that endpoint.py file, the model predicted that both of the patients had died.
+
 ![Endpoint](https://github.com/gbnuhg/udacity_ml_nano_capstone/assets/132493261/e52238fe-a7b5-47f2-8d9a-2c6bd4416b33)
 
 ## Screen Recording
